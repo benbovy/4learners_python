@@ -13,15 +13,33 @@ The homepage with a detailed schedule for this particular workshop is found [her
  ***
  
 The workshop focuses on three tools for scientific computing and reproducible research:   
-* the bash shell   
+* the shell   
 * git for version control   
-* the programming language Python    
+* scientific computing with Python    
  
- 
- 
- ***
- 
- The structure of the repository is outlined below.
+
+## the shell
+
+In this workshop we closely follow the Software Carpentry lesson [The Unix Shell](https://swcarpentry.github.io/shell-novice/). 
+
+## git for version control
+
+In this workshop we closely follow the Software Carpentry lesson [Version Control with Git](https://swcarpentry.github.io/git-novice/). 
+
+
+## scientific computing with Python    
+
+In this workshop we teach four main aspects of scientific computing with Python. 
+
+* 01 - Introduction to Python   
+* 02 - Functions and Code Structures   
+* 03 - Defensive Programming   
+* 04a - Exploratory Data Analysis I: Time Series and plotting   
+* 04b - Exploratory Data Analysis II: Higher dimensional (spatial) data   
+
+All data sets, all code snippets, all [Jupyter](http://jupyter.org/) notebooks and e `requirements.yml` file for reproducibility are available through this self contained repository. 
+
+The structure of this repository is outlined below.
 
     4learners                   
     │.git
@@ -32,15 +50,21 @@ The workshop focuses on three tools for scientific computing and reproducible re
     └───notebooks
     │   └───_img
     │   │   │...           # rendered images are placed here
-    │   │...               # find  [_Jupyter_](http://jupyter.org/) notebooks here
+    │   │...               # find all Jupyter notebooks here
     │      
     │README.md
-    │requirements.yml      # [conda](https://www.anaconda.com/what-is-anaconda/) environment specifications for reproducibility 
+    │requirements.yml      # conda environment specifications for reproducibility 
     └───src 
         │...               # here go the code snippets and scripts
         └───_solutions
             │...           # solutions for coding challenges
             
 
-***
 
+
+_Note that we are currently working on lessons to provide our curriculum in a more generic form, hence, come back once in a while and check the [master branch](https://github.com/swc-bb/4learners) for updates._
+
+
+ 
+ 
+ ***
