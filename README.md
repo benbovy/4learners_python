@@ -2,17 +2,18 @@
 
 This repository contains materials for [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) workshops hosted at Potsdam, Germany.
 
-
 The present branch of the repository relates to the **Python Novice workshop -- An Introduction to Scientific Computing and Reproducible Research** held at [Potsdam Institute for Climate Impact Research (PIK)](https://www.pik-potsdam.de/), in Potsdam, Germany, on **22-23rd of February 2018**. 
 
 The homepage with a detailed schedule for this particular workshop is found [here](https://swc-bb.github.io/2018-02-22-Potsdam-Berlin/).
 
- If you want to get in touch with us, please email to _swc-workshop-org@gfz-potsdam.de_. 
+If you want to get in touch with us, please email to swc-workshop-org@gfz-potsdam.de. 
 
+_If you are here because you are looking for a particular workshop you attended in the past, make sure you visit the correct branch of this repository (these are ordered by date)._
+
+
+***
  
- ***
- 
-The workshop focuses on three tools for scientific computing and reproducible research:   
+The workshop focuses on three foundational tools for scientific computing and reproducible research:   
 * the shell   
 * git for version control   
 * scientific computing with Python    
@@ -37,16 +38,16 @@ In this workshop we teach four main aspects of scientific computing with Python.
 * 04a - Exploratory Data Analysis I: Time Series and plotting   
 * 04b - Exploratory Data Analysis II: Higher dimensional (spatial) data   
 
-All data sets, all code snippets, all [Jupyter](http://jupyter.org/) notebooks and e `requirements.yml` file for reproducibility are available through this self contained repository. 
+All data sets, all code snippets, all [Jupyter](http://jupyter.org/) notebooks and the `requirements.yml` file(s) for reproducibility are available through this self contained repository. 
 
-The structure of this repository is outlined below.
+The structure of this repository is outlined below:
 
     4learners                   
     │.git
     └───data
     │   │...               # find all the raw data files 
     └───figures
-    │   │...               # saved figure go here
+    │   │...               # saved figures go here
     └───notebooks
     │   └───_img
     │   │   │...           # rendered images are placed here
@@ -57,14 +58,10 @@ The structure of this repository is outlined below.
     └───src 
         │...               # here go the code snippets and scripts
         └───_solutions
-            │...           # solutions for coding challenges
+            │...           # solutions for coding challenges (don't cheat yourself ;-))
             
 
-
-
-_Note that we are currently working on lessons to provide our curriculum in a more generic form, hence, come back once in a while and check the [master branch](https://github.com/swc-bb/4learners) for updates._
-
-
+_Note that we are currently working on lessons to present our curriculum in a more generic form, hence, come back once in a while and check the [master branch](https://github.com/swc-bb/4learners) for updates._
  
  
  ***
