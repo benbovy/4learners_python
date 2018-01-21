@@ -44,7 +44,8 @@ All data sets, all code snippets, all [Jupyter](http://jupyter.org/) notebooks a
 The structure of this repository is outlined below:
 
     4learners                   
-    │.git
+    │.git                  # git internals
+    │.gitignore            # specify files/folders to be ignored by git
     └───data
     │   │...               # find all the raw data files 
     └───figures
