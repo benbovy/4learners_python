@@ -8,7 +8,7 @@ The homepage with a detailed schedule for this particular workshop is found [her
 
 If you want to get in touch with us, please email to swc-workshop-org@gfz-potsdam.de. 
 
-_If you are here because you are looking for a particular workshop you attended in the past, make sure you visit the appropriate branch of this repository (note that the branches are ordered by date)._
+_If you are here because you are looking for a particular Python workshop you attended in the past, make sure you visit the appropriate branch of this repository (note that the branches are ordered by date)._
 
 
 ***
@@ -63,7 +63,7 @@ The structure of this repository is outlined below:
             │...           # solutions for coding challenges (don't cheat yourself ;-))
             
 
-_Note that we are currently working on lessons to present our curriculum in a more generic form, hence, come back once in a while and check the [master branch](https://github.com/swc-bb/4learners) for updates._
+_Note that we are currently working on lessons to present our curriculum in a more generic form, hence, come back once in a while and check the [master branch](https://github.com/swc-bb/4learners_python) for updates._
  
  
  ***
