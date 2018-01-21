@@ -8,7 +8,7 @@ The homepage with a detailed schedule for this particular workshop is found [her
 
 If you want to get in touch with us, please email to swc-workshop-org@gfz-potsdam.de. 
 
-_If you are here because you are looking for a particular workshop you attended in the past, make sure you visit the correct branch of this repository (these are ordered by date)._
+_If you are here because you are looking for a particular workshop you attended in the past, make sure you visit the appropriate branch of this repository (note that the branches are ordered by date)._
 
 
 ***
@@ -35,8 +35,9 @@ In this workshop we teach four main aspects of scientific computing with Python.
 * 01 - Introduction to Python   
 * 02 - Functions and Code Structures   
 * 03 - Defensive Programming   
-* 04a - Exploratory Data Analysis I: Time Series and plotting   
-* 04b - Exploratory Data Analysis II: Higher dimensional (spatial) data   
+* 04a - Exploratory Data Analysis I: Introduction to pandas
+* 04b - Exploratory Data Analysis II: Time Series and plotting   
+* 04c - (optional) Exploratory Data Analysis III: Higher dimensional (spatial) data   
 
 All data sets, all code snippets, all [Jupyter](http://jupyter.org/) notebooks and the `requirements.yml` file(s) for reproducibility are available through this self contained repository. 
 
