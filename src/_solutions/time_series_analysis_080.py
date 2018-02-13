@@ -1,4 +1,4 @@
-## Solution Challenge 7
+## Solution Challenge 8
 
 ## compute window length 10 years --> 12 * 10 months
 w = 12*10
