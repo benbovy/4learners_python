@@ -16,7 +16,8 @@ def plot_anomalies(df, title):
     lower_bound = df["10-year-anomaly"] - df["10-year-uncertainty"]
     
     ## Plotting ##
-    ## Note that we make use to the matplotlib library as we have even more controll over the aesthetics of the figure
+    ## Note that we make use to the matplotlib library as we have 
+    ## even more controll over the aesthetics of the figure
     import matplotlib.pyplot as plt
     
     ## create figure and axis objects
