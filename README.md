@@ -12,7 +12,7 @@ In order to re-run the workshop materials we encourage you to use the [conda](ht
 
 `conda env create -f environment.yml`
 
-into your console. Alternatively, you may launch [binder](https://binderhub.readthedocs.io/en/latest/) to get a reproducible executable environment immediately in your browser. Simply click the _binder_ icon in the upper left corner.
+into your console. Alternatively, you may launch [binder](https://binderhub.readthedocs.io/en/latest/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner.
 
 If you want to get in touch with us, please email to swc-workshop-org@gfz-potsdam.de.
 
