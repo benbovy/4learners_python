@@ -64,7 +64,7 @@ The structure of this repository is outlined below:
     │   │...               # find all Jupyter notebooks here
     │
     │README.md
-    │requirements.yml      # conda environment specifications for reproducibility
+    │environment.yml       # conda environment specifications for reproducibility
     └───src
         │...               # here go the code snippets and scripts
         └───_solutions
