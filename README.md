@@ -8,6 +8,12 @@ The present branch of the repository relates to the **Python Novice workshop -- 
 
 The homepage with a detailed schedule for this particular workshop is found [here](https://swc-bb.github.io/2018-02-22-Potsdam-Berlin/).
 
+In order to re-run the workshop materials we encourage you to use the [conda](https://conda.io/docs/) package manager. Once installed, create an environment and install all required dependencies on your machine by typing 
+
+`conda env create -f environment.yml`
+
+into your console. Alternatively, you may launch [binder](https://binderhub.readthedocs.io/en/latest/) to get a reproducible executable environment immediately in your browser. Simply click the _binder_ icon in the upper left corner.
+
 If you want to get in touch with us, please email to swc-workshop-org@gfz-potsdam.de.
 
 _If you are here because you are looking for a particular Python workshop you attended in the past, make sure you visit the appropriate branch of this repository (note that the branches are ordered by date)._
