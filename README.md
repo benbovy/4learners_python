@@ -47,7 +47,7 @@ In this workshop we teach four main aspects of scientific computing with Python.
 * 04b - Exploratory Data Analysis II: Time Series and plotting
 * 04c - (optional) Exploratory Data Analysis III: Higher dimensional (spatial) data
 
-All data sets, all code snippets, all [Jupyter](http://jupyter.org/) notebooks and the `requirements.yml` file(s) for reproducibility are available through this self contained repository.
+All data sets, all code snippets, all [Jupyter](http://jupyter.org/) notebooks and the `environment.yml` file for reproducibility are available through this self contained repository.
 
 The structure of this repository is outlined below:
 
