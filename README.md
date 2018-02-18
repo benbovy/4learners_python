@@ -12,7 +12,13 @@ In order to re-run the workshop materials we encourage you to use the [conda](ht
 
 `conda env create -f environment.yml`
 
-into your console. Alternatively, you may launch [binder](https://binderhub.readthedocs.io/en/latest/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner.
+into your console. You activate your new environment by typing 
+
+`source activate python-workshop` (on LINUX and Mac) or
+
+`activate python-workshop` (on WINDOWS). 
+
+Then you are ready to go (if you are stuck check out the [conda documentation site](https://conda.io/docs/user-guide/tasks/manage-environments.html#)). Alternatively, you may launch [binder](https://binderhub.readthedocs.io/en/latest/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner.
 
 If you want to get in touch with us, please email to swc-workshop-org@gfz-potsdam.de.
 
