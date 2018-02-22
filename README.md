@@ -49,9 +49,7 @@ In this workshop we teach four main aspects of scientific computing with Python.
 * 01 - Introduction to Python
 * 02 - Functions and Code Structures
 * 03 - Defensive Programming
-* 04a - Exploratory Data Analysis I: Introduction to pandas
-* 04b - Exploratory Data Analysis II: Time Series and plotting
-* 04c - (optional) Exploratory Data Analysis III: Higher dimensional (spatial) data
+* 04 - Exploratory Data Analysis
 
 All data sets, all code snippets, all [Jupyter](http://jupyter.org/) notebooks and the `environment.yml` file for reproducibility are available through this self contained repository.
 
