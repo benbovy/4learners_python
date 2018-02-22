@@ -8,6 +8,8 @@ The present branch of the repository relates to the **Python Novice workshop -- 
 
 The homepage with a detailed schedule for this particular workshop is found [here](https://swc-bb.github.io/2018-02-22-Potsdam-Berlin/).
 
+The etherpad we used during the workshop if found [here](http://pad.software-carpentry.org/2018-02-22-Potsdam-Berlin).
+
 In order to re-run the workshop materials we encourage you to use the [conda](https://conda.io/docs/) package manager. Once installed, create an environment and install all required dependencies on your machine by typing 
 
 `conda env create -f environment.yml`
